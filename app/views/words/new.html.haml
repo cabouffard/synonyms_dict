@@ -1,0 +1,10 @@
+= form_tag words_path, method: :post do
+	
+	= label_tag :definition, "Definition"
+	= text_field_tag :definition
+	
+	= label_tag :value, "Mot"
+	= text_field_tag :value
+	
+	= submit_tag "Envoyer"
+

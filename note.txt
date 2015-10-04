@@ -1,0 +1,22 @@
+MVC
+
+MODEL
+mot
+- defi
+- syn
+- genre
+
+VIEW
+visuel
+
+CONTROLLER
+pont entre les deux
+
+
+-------------------------
+
+string: lettre / mot / phrase
+integer: chiffre
+float: decimal
+text: paragraphe
+boolean: vrai / faux

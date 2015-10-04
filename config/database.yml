@@ -1,0 +1,26 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: josie_development
+  pool: 5
+  host: 127.0.0.1
+  username: postgres
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: josie_development
+  pool: 5
+  host: 127.0.0.1
+  username: postgres
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: josie_development
+  pool: 25
+  host: 127.0.0.1
+  username: immo
+  password: gjab16df9sk0924114dgl
